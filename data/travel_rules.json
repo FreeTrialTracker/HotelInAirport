@@ -1,0 +1,520 @@
+{
+  "transit_rules": [
+    {
+      "airport_code": "SIN",
+      "country": "Singapore",
+      "visa_free_transit": true,
+      "notes": "Transit passengers can stay airside without a visa. Transit visa available for hotel access."
+    },
+    {
+      "airport_code": "DXB",
+      "country": "United Arab Emirates",
+      "visa_free_transit": true,
+      "notes": "Transit passengers can remain airside without visa. Free transit visa available for UAE hotels."
+    },
+    {
+      "airport_code": "LHR",
+      "country": "United Kingdom",
+      "visa_free_transit": true,
+      "notes": "Most nationalities can transit airside without visa if remaining in international area."
+    },
+    {
+      "airport_code": "DOH",
+      "country": "Qatar",
+      "visa_free_transit": true,
+      "notes": "Transit passengers can stay airside. Free transit visa available for many nationalities."
+    },
+    {
+      "airport_code": "AUH",
+      "country": "United Arab Emirates",
+      "visa_free_transit": true,
+      "notes": "Airside transit typically visa-free. Transit visa available for hotel access."
+    },
+    {
+      "airport_code": "HKG",
+      "country": "Hong Kong",
+      "visa_free_transit": true,
+      "notes": "Most nationalities can transit without visa if staying airside."
+    },
+    {
+      "airport_code": "ICN",
+      "country": "South Korea",
+      "visa_free_transit": true,
+      "notes": "Transit passengers can stay airside without visa. Transit tours available for some nationalities."
+    },
+    {
+      "airport_code": "NRT",
+      "country": "Japan",
+      "visa_free_transit": true,
+      "notes": "Airside transit generally visa-free. Shore pass available for some nationalities."
+    },
+    {
+      "airport_code": "HND",
+      "country": "Japan",
+      "visa_free_transit": true,
+      "notes": "Airside transit generally visa-free for most nationalities."
+    },
+    {
+      "airport_code": "KUL",
+      "country": "Malaysia",
+      "visa_free_transit": true,
+      "notes": "Transit passengers can stay airside without visa."
+    },
+    {
+      "airport_code": "BKK",
+      "country": "Thailand",
+      "visa_free_transit": true,
+      "notes": "Airside transit typically visa-free. Check immigration requirements for landside access."
+    },
+    {
+      "airport_code": "IST",
+      "country": "Turkey",
+      "visa_free_transit": true,
+      "notes": "Many nationalities can transit airside without visa."
+    },
+    {
+      "airport_code": "AMS",
+      "country": "Netherlands",
+      "visa_free_transit": true,
+      "notes": "Schengen visa rules apply. Airside transit typically allowed without visa."
+    },
+    {
+      "airport_code": "CDG",
+      "country": "France",
+      "visa_free_transit": true,
+      "notes": "Schengen visa rules apply. Airside transit typically allowed for most nationalities."
+    },
+    {
+      "airport_code": "FRA",
+      "country": "Germany",
+      "visa_free_transit": true,
+      "notes": "Schengen visa rules apply. Airside transit typically visa-free."
+    },
+    {
+      "airport_code": "PEK",
+      "country": "China",
+      "visa_free_transit": false,
+      "notes": "Transit visa requirements vary by nationality. 24-hour transit available for some."
+    },
+    {
+      "airport_code": "PVG",
+      "country": "China",
+      "visa_free_transit": false,
+      "notes": "144-hour visa-free transit available for many nationalities with onward ticket."
+    },
+    {
+      "airport_code": "DEL",
+      "country": "India",
+      "visa_free_transit": false,
+      "notes": "Transit visa typically required for most nationalities if leaving airside."
+    },
+    {
+      "airport_code": "BOM",
+      "country": "India",
+      "visa_free_transit": false,
+      "notes": "Transit visa typically required for landside access."
+    }
+  ],
+  "destination_rules": [
+    {
+      "passport": "United States",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "United States",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "United States",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "United States",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "United States",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "United States",
+      "destination": "India",
+      "visa_required": true
+    },
+    {
+      "passport": "United Kingdom",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "United Kingdom",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "United Kingdom",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "United Kingdom",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "United Kingdom",
+      "destination": "India",
+      "visa_required": true
+    },
+    {
+      "passport": "India",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "India",
+      "destination": "United Kingdom",
+      "visa_required": true
+    },
+    {
+      "passport": "India",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "India",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "India",
+      "destination": "Japan",
+      "visa_required": true
+    },
+    {
+      "passport": "China",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "China",
+      "destination": "United Kingdom",
+      "visa_required": true
+    },
+    {
+      "passport": "China",
+      "destination": "Japan",
+      "visa_required": true
+    },
+    {
+      "passport": "China",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "China",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "Singapore",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "Singapore",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Singapore",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Singapore",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "Japan",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "Japan",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Japan",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Japan",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "Australia",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "Australia",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Australia",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Australia",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Australia",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "Germany",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "Germany",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Germany",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Germany",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "France",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "France",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "France",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "France",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "Canada",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "Canada",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Canada",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Canada",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Canada",
+      "destination": "China",
+      "visa_required": true
+    },
+    {
+      "passport": "Thailand",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Thailand",
+      "destination": "Japan",
+      "visa_required": true
+    },
+    {
+      "passport": "Thailand",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "Thailand",
+      "destination": "United Kingdom",
+      "visa_required": true
+    },
+    {
+      "passport": "Malaysia",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Malaysia",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "Malaysia",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Malaysia",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "Indonesia",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Indonesia",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "Indonesia",
+      "destination": "Japan",
+      "visa_required": true
+    },
+    {
+      "passport": "Philippines",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Philippines",
+      "destination": "Thailand",
+      "visa_required": false
+    },
+    {
+      "passport": "Philippines",
+      "destination": "Japan",
+      "visa_required": true
+    },
+    {
+      "passport": "South Korea",
+      "destination": "United States",
+      "visa_required": false
+    },
+    {
+      "passport": "South Korea",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "South Korea",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "South Korea",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Brazil",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "Brazil",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Brazil",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "Mexico",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "Mexico",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "Mexico",
+      "destination": "Japan",
+      "visa_required": false
+    },
+    {
+      "passport": "South Africa",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "South Africa",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "South Africa",
+      "destination": "Singapore",
+      "visa_required": false
+    },
+    {
+      "passport": "Nigeria",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "Nigeria",
+      "destination": "United Kingdom",
+      "visa_required": true
+    },
+    {
+      "passport": "Nigeria",
+      "destination": "Singapore",
+      "visa_required": true
+    },
+    {
+      "passport": "United Arab Emirates",
+      "destination": "United States",
+      "visa_required": true
+    },
+    {
+      "passport": "United Arab Emirates",
+      "destination": "United Kingdom",
+      "visa_required": false
+    },
+    {
+      "passport": "United Arab Emirates",
+      "destination": "Singapore",
+      "visa_required": false
+    }
+  ]
+}

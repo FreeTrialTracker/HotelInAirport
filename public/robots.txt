@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /import-data
+Disallow: /login
+
+# Prevent crawling of parameterized filter/search states on listing pages
+# Canonical tags already point filtered states back to the clean URL,
+# but these rules reduce unnecessary crawl budget consumption.
+Disallow: /airports?*
+Disallow: /hotels?*
+
+Sitemap: https://www.hotelinairport.com/sitemap.xml

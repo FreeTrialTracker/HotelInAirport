@@ -1,0 +1,652 @@
+{
+  "airports": [
+    {
+      "airport_code": "AUH",
+      "airport_name": "Abu Dhabi International",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "slug": "abu-dhabi-international-auh"
+    },
+    {
+      "airport_code": "ALA",
+      "airport_name": "Almaty",
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "region": "Asia",
+      "slug": "almaty-ala"
+    },
+    {
+      "airport_code": "ATH",
+      "airport_name": "Athens International",
+      "city": "Athens",
+      "country": "Greece",
+      "region": "Europe",
+      "slug": "athens-international-ath"
+    },
+    {
+      "airport_code": "AKL",
+      "airport_name": "Auckland Airport",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "region": "Oceania",
+      "slug": "auckland-airport-akl"
+    },
+    {
+      "airport_code": "BAH",
+      "airport_name": "Bahrain International",
+      "city": "Manama",
+      "country": "Bahrain",
+      "region": "Middle East",
+      "slug": "bahrain-international-bah"
+    },
+    {
+      "airport_code": "BCN",
+      "airport_name": "Barcelona–El Prat",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "barcelona-el-prat-bcn"
+    },
+    {
+      "airport_code": "PKX",
+      "airport_name": "Beijing Daxing",
+      "city": "Beijing",
+      "country": "China",
+      "region": "Asia",
+      "slug": "beijing-daxing-pkx"
+    },
+    {
+      "airport_code": "MEX",
+      "airport_name": "Benito Juárez International",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "region": "Americas",
+      "slug": "benito-ju-rez-international-mex"
+    },
+    {
+      "airport_code": "BER",
+      "airport_name": "Berlin Brandenburg",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "slug": "berlin-brandenburg-ber"
+    },
+    {
+      "airport_code": "BOG",
+      "airport_name": "Bogotá",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "region": "Americas",
+      "slug": "bogot-bog"
+    },
+    {
+      "airport_code": "ADD",
+      "airport_name": "Bole International",
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "region": "Africa",
+      "slug": "bole-international-add"
+    },
+    {
+      "airport_code": "BNE",
+      "airport_name": "Brisbane Airport",
+      "city": "Brisbane",
+      "country": "Australia",
+      "region": "Oceania",
+      "slug": "brisbane-airport-bne"
+    },
+    {
+      "airport_code": "BRU",
+      "airport_name": "Brussels Airport",
+      "city": "Brussels",
+      "country": "Belgium",
+      "region": "Europe",
+      "slug": "brussels-airport-bru"
+    },
+    {
+      "airport_code": "CAI",
+      "airport_name": "Cairo International",
+      "city": "Cairo",
+      "country": "Egypt",
+      "region": "Africa",
+      "slug": "cairo-international-cai"
+    },
+    {
+      "airport_code": "SIN",
+      "airport_name": "Changi Airport",
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "Asia",
+      "slug": "changi-airport-sin"
+    },
+    {
+      "airport_code": "CDG",
+      "airport_name": "Charles de Gaulle",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "slug": "charles-de-gaulle-cdg"
+    },
+    {
+      "airport_code": "CLT",
+      "airport_name": "Charlotte Douglas",
+      "city": "Charlotte",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "charlotte-douglas-clt"
+    },
+    {
+      "airport_code": "BOM",
+      "airport_name": "Chhatrapati Shivaji",
+      "city": "Mumbai",
+      "country": "India",
+      "region": "Asia",
+      "slug": "chhatrapati-shivaji-bom"
+    },
+    {
+      "airport_code": "CPH",
+      "airport_name": "Copenhagen Airport",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "region": "Europe",
+      "slug": "copenhagen-airport-cph"
+    },
+    {
+      "airport_code": "DFW",
+      "airport_name": "Dallas/Fort Worth",
+      "city": "Dallas",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "dallas-fort-worth-dfw"
+    },
+    {
+      "airport_code": "DEN",
+      "airport_name": "Denver International",
+      "city": "Denver",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "denver-international-den"
+    },
+    {
+      "airport_code": "DXB",
+      "airport_name": "Dubai International",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "slug": "dubai-international-dxb"
+    },
+    {
+      "airport_code": "DUB",
+      "airport_name": "Dublin Airport",
+      "city": "Dublin",
+      "country": "Ireland",
+      "region": "Europe",
+      "slug": "dublin-airport-dub"
+    },
+    {
+      "airport_code": "EZE",
+      "airport_name": "Ezeiza International Airport",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "region": "Americas",
+      "slug": "ezeiza-international-airport-eze"
+    },
+    {
+      "airport_code": "FCO",
+      "airport_name": "Fiumicino",
+      "city": "Rome",
+      "country": "Italy",
+      "region": "Europe",
+      "slug": "fiumicino-fco"
+    },
+    {
+      "airport_code": "FRA",
+      "airport_name": "Frankfurt Airport",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "region": "Europe",
+      "slug": "frankfurt-airport-fra"
+    },
+    {
+      "airport_code": "IAH",
+      "airport_name": "George Bush Intercontinental",
+      "city": "Houston",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "george-bush-intercontinental-iah"
+    },
+    {
+      "airport_code": "CAN",
+      "airport_name": "Guangzhou",
+      "city": "Guangzhou",
+      "country": "China",
+      "region": "Asia",
+      "slug": "guangzhou-can"
+    },
+    {
+      "airport_code": "DOH",
+      "airport_name": "Hamad International",
+      "city": "Doha",
+      "country": "Qatar",
+      "region": "Middle East",
+      "slug": "hamad-international-doh"
+    },
+    {
+      "airport_code": "HND",
+      "airport_name": "Haneda",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Asia",
+      "slug": "haneda-hnd"
+    },
+    {
+      "airport_code": "ATL",
+      "airport_name": "Hartsfield–Jackson Atlanta",
+      "city": "Atlanta",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "hartsfield-jackson-atlanta-atl"
+    },
+    {
+      "airport_code": "LHR",
+      "airport_name": "Heathrow",
+      "city": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "slug": "heathrow-lhr"
+    },
+    {
+      "airport_code": "HEL",
+      "airport_name": "Helsinki Airport",
+      "city": "Helsinki",
+      "country": "Finland",
+      "region": "Europe",
+      "slug": "helsinki-airport-hel"
+    },
+    {
+      "airport_code": "HKG",
+      "airport_name": "Hong Kong International",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "region": "Asia",
+      "slug": "hong-kong-international-hkg"
+    },
+    {
+      "airport_code": "LIS",
+      "airport_name": "Humberto Delgado",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "region": "Europe",
+      "slug": "humberto-delgado-lis"
+    },
+    {
+      "airport_code": "ICN",
+      "airport_name": "Incheon",
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "Asia",
+      "slug": "incheon-icn"
+    },
+    {
+      "airport_code": "DEL",
+      "airport_name": "Indira Gandhi",
+      "city": "Delhi",
+      "country": "India",
+      "region": "Asia",
+      "slug": "indira-gandhi-del"
+    },
+    {
+      "airport_code": "IST",
+      "airport_name": "Istanbul Airport",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "region": "Europe",
+      "slug": "istanbul-airport-ist"
+    },
+    {
+      "airport_code": "JFK",
+      "airport_name": "John F Kennedy",
+      "city": "New York",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "john-f-kennedy-jfk"
+    },
+    {
+      "airport_code": "NBO",
+      "airport_name": "Jomo Kenyatta International",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "Africa",
+      "slug": "jomo-kenyatta-international-nbo"
+    },
+    {
+      "airport_code": "LIM",
+      "airport_name": "Jorge Chávez International",
+      "city": "Lima",
+      "country": "Peru",
+      "region": "Americas",
+      "slug": "jorge-ch-vez-international-lim"
+    },
+    {
+      "airport_code": "KIX",
+      "airport_name": "Kansai",
+      "city": "Osaka",
+      "country": "Japan",
+      "region": "Asia",
+      "slug": "kansai-kix"
+    },
+    {
+      "airport_code": "JED",
+      "airport_name": "King Abdulaziz International",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "slug": "king-abdulaziz-international-jed"
+    },
+    {
+      "airport_code": "RUH",
+      "airport_name": "King Khalid International",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "slug": "king-khalid-international-ruh"
+    },
+    {
+      "airport_code": "KUL",
+      "airport_name": "Kuala Lumpur",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "region": "Asia",
+      "slug": "kuala-lumpur-kul"
+    },
+    {
+      "airport_code": "KWI",
+      "airport_name": "Kuwait International",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "region": "Middle East",
+      "slug": "kuwait-international-kwi"
+    },
+    {
+      "airport_code": "BOS",
+      "airport_name": "Logan International",
+      "city": "Boston",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "logan-international-bos"
+    },
+    {
+      "airport_code": "LAX",
+      "airport_name": "Los Angeles International",
+      "city": "Los Angeles",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "los-angeles-international-lax"
+    },
+    {
+      "airport_code": "MAD",
+      "airport_name": "Madrid Barajas",
+      "city": "Madrid",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "madrid-barajas-mad"
+    },
+    {
+      "airport_code": "MAN",
+      "airport_name": "Manchester Airport",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "slug": "manchester-airport-man"
+    },
+    {
+      "airport_code": "MEL",
+      "airport_name": "Melbourne Airport",
+      "city": "Melbourne",
+      "country": "Australia",
+      "region": "Oceania",
+      "slug": "melbourne-airport-mel"
+    },
+    {
+      "airport_code": "MIA",
+      "airport_name": "Miami International",
+      "city": "Miami",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "miami-international-mia"
+    },
+    {
+      "airport_code": "MSP",
+      "airport_name": "Minneapolis–Saint Paul",
+      "city": "Minneapolis",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "minneapolis-saint-paul-msp"
+    },
+    {
+      "airport_code": "MUC",
+      "airport_name": "Munich Airport",
+      "city": "Munich",
+      "country": "Germany",
+      "region": "Europe",
+      "slug": "munich-airport-muc"
+    },
+    {
+      "airport_code": "LOS",
+      "airport_name": "Murtala Muhammed International",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "Africa",
+      "slug": "murtala-muhammed-international-los"
+    },
+    {
+      "airport_code": "MCT",
+      "airport_name": "Muscat International",
+      "city": "Muscat",
+      "country": "Oman",
+      "region": "Middle East",
+      "slug": "muscat-international-mct"
+    },
+    {
+      "airport_code": "NRT",
+      "airport_name": "Narita",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Asia",
+      "slug": "narita-nrt"
+    },
+    {
+      "airport_code": "EWR",
+      "airport_name": "Newark Liberty",
+      "city": "Newark",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "newark-liberty-ewr"
+    },
+    {
+      "airport_code": "DPS",
+      "airport_name": "Ngurah Rai",
+      "city": "Bali",
+      "country": "Indonesia",
+      "region": "Asia",
+      "slug": "ngurah-rai-dps"
+    },
+    {
+      "airport_code": "MNL",
+      "airport_name": "Ninoy Aquino",
+      "city": "Manila",
+      "country": "Philippines",
+      "region": "Asia",
+      "slug": "ninoy-aquino-mnl"
+    },
+    {
+      "airport_code": "ORD",
+      "airport_name": "O'Hare International",
+      "city": "Chicago",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "o-hare-international-ord"
+    },
+    {
+      "airport_code": "JNB",
+      "airport_name": "OR Tambo International",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "Africa",
+      "slug": "or-tambo-international-jnb"
+    },
+    {
+      "airport_code": "OSL",
+      "airport_name": "Oslo Gardermoen",
+      "city": "Oslo",
+      "country": "Norway",
+      "region": "Europe",
+      "slug": "oslo-gardermoen-osl"
+    },
+    {
+      "airport_code": "SFO",
+      "airport_name": "San Francisco International",
+      "city": "San Francisco",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "san-francisco-international-sfo"
+    },
+    {
+      "airport_code": "GRU",
+      "airport_name": "São Paulo",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "region": "Americas",
+      "slug": "s-o-paulo-gru"
+    },
+    {
+      "airport_code": "AMS",
+      "airport_name": "Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "region": "Europe",
+      "slug": "schiphol-ams"
+    },
+    {
+      "airport_code": "PVG",
+      "airport_name": "Shanghai",
+      "city": "Shanghai",
+      "country": "China",
+      "region": "Asia",
+      "slug": "shanghai-pvg"
+    },
+    {
+      "airport_code": "SHJ",
+      "airport_name": "Sharjah International",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "slug": "sharjah-international-shj"
+    },
+    {
+      "airport_code": "SZX",
+      "airport_name": "Shenzhen Bao'an",
+      "city": "Shenzhen",
+      "country": "China",
+      "region": "Asia",
+      "slug": "shenzhen-bao-an-szx"
+    },
+    {
+      "airport_code": "CGK",
+      "airport_name": "Soekarno–Hatta",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "region": "Asia",
+      "slug": "soekarno-hatta-cgk"
+    },
+    {
+      "airport_code": "BKK",
+      "airport_name": "Suvarnabhumi",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "region": "Asia",
+      "slug": "suvarnabhumi-bkk"
+    },
+    {
+      "airport_code": "SYD",
+      "airport_name": "Sydney Kingsford Smith",
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "Oceania",
+      "slug": "sydney-kingsford-smith-syd"
+    },
+    {
+      "airport_code": "SGN",
+      "airport_name": "Tan Son Nhat",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "region": "Asia",
+      "slug": "tan-son-nhat-sgn"
+    },
+    {
+      "airport_code": "TPE",
+      "airport_name": "Taoyuan International",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "region": "Asia",
+      "slug": "taoyuan-international-tpe"
+    },
+    {
+      "airport_code": "TAS",
+      "airport_name": "Taschkent",
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "region": "Asia",
+      "slug": "taschkent-tas"
+    },
+    {
+      "airport_code": "PTY",
+      "airport_name": "Tocumen International",
+      "city": "Panama City",
+      "country": "Panama",
+      "region": "Americas",
+      "slug": "tocumen-international-pty"
+    },
+    {
+      "airport_code": "YYZ",
+      "airport_name": "Toronto Pearson",
+      "city": "Toronto",
+      "country": "Canada",
+      "region": "Americas",
+      "slug": "toronto-pearson-yyz"
+    },
+    {
+      "airport_code": "YVR",
+      "airport_name": "Vancouver International",
+      "city": "Vancouver",
+      "country": "Canada",
+      "region": "Americas",
+      "slug": "vancouver-international-yvr"
+    },
+    {
+      "airport_code": "VIE",
+      "airport_name": "Vienna International",
+      "city": "Vienna",
+      "country": "Austria",
+      "region": "Europe",
+      "slug": "vienna-international-vie"
+    },
+    {
+      "airport_code": "IAD",
+      "airport_name": "Washington Dulles",
+      "city": "Washington DC",
+      "country": "USA",
+      "region": "Americas",
+      "slug": "washington-dulles-iad"
+    },
+    {
+      "airport_code": "ZRH",
+      "airport_name": "Zurich Airport",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "region": "Europe",
+      "slug": "zurich-airport-zrh"
+    }
+  ]
+}
